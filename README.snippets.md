@@ -186,9 +186,9 @@ Javascript's unicode implementation and string comparison rules are in effect.
 
 ### Demo Pages
 
-* [Example 0](./demo-0.html) - minimal markup
-* [Example 1](./demo-1.html) - simple, typical article page using page url 
-* [Example 2](./demo-1.html) - simple, typical article page using article id
+* [Example 0](https://test.worldtable.co/demo/demo-0.html) - minimal markup
+* [Example 1](https://test.worldtable.co/demo/demo-1.html) - simple, typical article page using page url 
+* [Example 2](https://test.worldtable.co/demo/demo-2.html) - simple, typical article page using article id
 
 ### Special Cases
 
