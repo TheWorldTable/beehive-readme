@@ -127,4 +127,28 @@ the entire page content:
     
 #### Comment Counts
 
-tbd
+Comment counts can be inserted in "The Loop" for both single and multiple post pages. The normal case is to wrap
+the count with a link to the comment section/page. Here's the recommended markup for a typical inline link: 
+
+    <a href="<?php echo get_permalink(); ?>#twt-comments" style="display: none;">
+      <span twt-comment-count twt-article-id="WP-POST-<?php the_ID(); ?>">0</span> comments</a>
+
+For the WordPress example site, the 2019 theme's `template-parts/content/content.php` template was modified
+at line 26 by adding the HTML above just inside the bottom of the `</header>` element.
+
+In addition, for single post pages, the HTML above was also added to `template-parts/content/content.php` 
+in the same relative location. In this case, the link will perform a scroll-down when click to position 
+to the top of the comments section.
+
+You can customize the link text, wrap in a block element, add classes for styling, etc.
+
+##### Special styles for comment counts when 0
+
+The parent of the count number is given a HTML/CSS class of `twt-count-0` when the count is zero so you can 
+setup special styles to hide or make zero counts more subtle like this CSS.
+
+    .twt-count-0 {
+       color: #ddd;
+    }
+
+For the example WordPress site, this CSS was added to the `style.css` file in the 2019 theme.
