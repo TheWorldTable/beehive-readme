@@ -7,7 +7,7 @@
     <script id="twt-script" src="https://app.worldtable.co/the-world-table.js" twt-site-id="0000000000000000_0000000" async></script>
     <div id="twt-comments"></div>
 
-Where *0000000000000000_0000000* is replaced with your World Table Site Id. (Note: Site ID will be created and provided by World Table support team)
+Where *0000000000000000_0000000* is replaced with your World Table Site Id.
 
 ##### Add a Comment Count
 
