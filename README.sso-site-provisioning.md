@@ -26,3 +26,5 @@ Step 6) To add World Table as a client, click on the “Client sites” tab (see
 Set “Source” as “worldtable” and check the “Skip user approval” option.
 
 ![Step 6](/app/images/docs/Step6.png)
+
+Click "OK"
