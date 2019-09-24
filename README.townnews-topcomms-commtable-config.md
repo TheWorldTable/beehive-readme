@@ -20,4 +20,4 @@ Click "Save Changes"
 
 #### Creating the World Table "Top Comments" Widget/Block
 
-Repeat the steps above, except in Step 3, select "Top Comments"
+Repeat the steps above, except in Step 3, select Widget Mode: "Top Comments"
