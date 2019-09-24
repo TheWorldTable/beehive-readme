@@ -4,6 +4,8 @@
 
 #### Step 1) World Table must be enabled as a “Webservice keys” provider. This step is completed by going to “Settings” > “Webservice Keys” and clicking on “New.”
 
+![step 1](/app/images/docs/step1.png)
+
 #### Step 2) In the form that opens, enter the name “World Table” and check “Subscription” and “User.” Then click “Create Key.” 
 
 #### Step 3) Both the Key and Secret must be entered in the New Site provisioning form, and/or sent to World Table staff, so that your site can be configured in the World Table backend. 
