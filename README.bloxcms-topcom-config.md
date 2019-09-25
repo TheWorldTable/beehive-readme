@@ -4,15 +4,15 @@
 
 #### Creating the World Table "Community Table" page/Block
 
-Step 1) Under Design / Blocks, Click “New” and select “Content Block”
+**Step 1)** Under Design / Blocks, Click "New" and select "Content Block"
 
 ![Step 1](./app/images/docs/TC-CTstep1.png)
 
-Step 2) Select Block Type: “Static” and scroll down to select “External: Commenting System” then click "Continue"
+**Step 2)** Select Block Type: "Static" and scroll down to select "External: Commenting System" then click "Continue"
 
 ![Step 2](./app/images/docs/TC-CTstep2.png)
 
-Step 3) Edit settings for the block by adding the Block Title, and URL, Checking “Commenting Vendor” and selecting The World Table, and Choosing the Widget Mode: “Community Table”
+**Step 3)** Edit settings for the block by adding the Block Title, and URL, Checking "Commenting Vendor" and selecting The World Table, and Choosing the Widget Mode: "Community Table"
 
 Click "Save Changes"
 
